@@ -1,5 +1,4 @@
 # Netflix-Data-Insights
-# Netflix Data Insights
 
 ## 📌 Project Overview
 This project analyzes Netflix's dataset to uncover trends, patterns, and insights about movies and TV shows. The analysis includes visualization of content distribution, ratings, release trends, and more.
